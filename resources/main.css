@@ -1,9 +1,13 @@
 * { font-family:monospace; font-size:100%; text-decoration: none; box-sizing:content-box; }
 
+/* colors
+#C7FD9D
+#1CB5F7 */
+
 a {color: #C7FD9D; }
 a:hover { background-color:#C7FD9D; color:#000; }
 p { padding: 5px; margin-bottom: 30px; }
-hr { color: #C7FD9D; margin-top: 20px; }
+hr { color: #1CB5F7; margin-top: 20px; }
 
 body { background-color:#000; color:#C7FD9D }
 
