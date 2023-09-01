@@ -3,7 +3,7 @@
 a {color: #C7FD9D; }
 a:hover { background-color:#C7FD9D; color:#000; }
 p { padding: 5px; margin-bottom: 30px; }
-hr { color: #C7FD9D; }
+hr { color: #C7FD9D; margin-top: 20px; }
 
 body { background-color:#000; color:#C7FD9D }
 
